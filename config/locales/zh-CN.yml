@@ -1,0 +1,22 @@
+---
+zh-CN::
+  spree:
+    add_store_credit: "添加储值"
+    current_store_credit: "当前储值"
+    editing_store_credit: "编辑储值"
+    enter_desired_amount_of_store_credit: "请输入你想使用的储值数"
+    listing_store_credits: "储值记录"
+    new_store_credit: "新建一笔储值"
+    manage_store_credits: "管理储值"
+    orders_with_store_credit: "包含储值的订单"
+    remaining_amount: "Remaining amount"
+    store_credit: "储值"
+    store_credit_maximum_amount: "储值的最大数值不可多余%{amount}."
+    store_credits: "储值"
+    you_have_store_credit: "你储值的余额为%{amount}"
+    was_fully_used: "全部使用"
+    was_partially_used: "部分使用"
+    cannot_edit_used: "因为已经被使用了，所以不可编辑"
+    errors:
+      messages:
+        store_credit_minimum_order_not_reach: "订单总价低于最低允许的可用储值(%{amount})."
